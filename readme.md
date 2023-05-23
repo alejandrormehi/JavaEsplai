@@ -68,4 +68,4 @@ Ahora nuestro fichero se encuenta en la fase de "Local Repository"
 
 ![Error al cargar la img](./img/gitRemote2.jpg "Tercer paso para trabajar con repositorios")
 
-+ Ahora vemos que si que nos aparece más informacion que antes 
++ Ahora vemos que si que nos aparece más informacion que antes a
